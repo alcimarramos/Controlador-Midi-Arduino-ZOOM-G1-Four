@@ -15,5 +15,5 @@ Caixa de Madeira comprada em Loja de Artesanato.
 Usei solda Cobix e ferro de solda da Hikari, é muito bom usar solda e um ferro de boa qualidade.<br>
 Todo o esquema de ligação das chaves e leds estão bem detalhadas nas imagens.
 <br>
-<img width=698 height=661 src="ESQUEMA%20DE%20LIGAÇÃO%20DOS%20PEDAIS.jpg">
+<img width=652 height=522 src="Foot%20Zoom%20G1%20Four%208%20pedais%20up%20e%20down.jpg">
 
