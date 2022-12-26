@@ -9,6 +9,7 @@ O Pedal <b>8</b> também tem a função de <b>Bank Up</b> se pressionado por 1 s
 1 Placa Host Shield USB<br>
 8 Chaves Momentâneas<br>
 8 LEDs<br>
+8 Resistores de 220 Ohms para os LEDs<br>
 Fios usei de Fonte de PC<br>
 Caixa de Madeira comprada em Loja de Artesanato.
 <br>
